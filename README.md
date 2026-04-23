@@ -3,7 +3,7 @@ COS30043: Interface Design and Development. Creating campus news article website
 
 The Website Structure:
 Home
-|-Overview
+|-Overview/n
    |-Articles
 |-About
 |-Contact
